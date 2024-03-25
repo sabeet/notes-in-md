@@ -35,6 +35,8 @@ Notice how Car extends Vehicle
 Notice how Child extends Parent
 
 ---
+# Super()` 
+
 Super is used to refer to the parent class
 
 Super will call for the superclass method
