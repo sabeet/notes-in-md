@@ -1,37 +1,28 @@
-
-**Access Modifiers**
+# Access Modifiers
+---
+Access modifiers allow us to set the level of access a class, method, variable, or constructor can get. There are four access modifiers: **Private, Public, Default, Protected**
 
 ---
 
-For Classes,
+## Public : 
+Accessible for all classes
 
-Public : Accessible by all the other classes
-Default : Accessible by all the other classes within the same package. Doesn't need to be specified
+## Private : 
+Only Accessible within the class itself
 
----
+## Default : 
+Only accessible within the same package. Doesn't need to specified
 
-For Methods,
-
-Public : Accessible for all classes
-Private : Only Accessible within the main class
-Default : Only accessible within the same package. Doesn't need to specified
-Protected : Only accessible within the same package and subclasses
+## Protected : 
+Only accessible within the same package and subclasses. The subclass can inherit the values from a protected class
 
 ---
-
-**Non-Access Modifiers**
-
+# Non-Access Modifiers
 ---
 
-For classes,
-
-final : Cannot be inherited by other classes
-abstract : Cannot be used to create objects
-
----
-
-For methods,
-
-final : methods cannot be overridden/modified. You wouldn't wanna modify PI right?
-static : attributes belong to class rather than objects. You can modify it without having to call a constructor
-abstract: Abstract method is provided by the abstract class but the body is in the subclass
+## Abstract : 
+Cannot be used to create objects.  Abstract method is provided by the abstract class but the body is in the subclass
+## Final : 
+Cannot be inherited by other classes. Methods cannot be overridden/modified. You wouldn't wanna modify PI right?
+## Static : 
+attributes belong to class rather than objects. You can modify it without having to call a constructor

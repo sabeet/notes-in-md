@@ -1,5 +1,11 @@
 
+---
+# Constructor
+---
 A **constructor**  is a special method used in java to initialize objects upon creation. It can be used to set values for object attributes
+
+---
+
 
 ```java
 // Create a Main class
@@ -20,6 +26,7 @@ public class Main {
 // Outputs 5
 ```
 
+**Requirements:**
 - A constructor must match the class name
 - A constructor has no return type
 - All classes have a default constructor which means java makes a default one even if you don't
