@@ -1,4 +1,4 @@
-# Access Modifiers
+
 ---
 Access modifiers allow us to set the level of access a class, method, variable, or constructor can get. There are four access modifiers: **Private, Public, Default, Protected**
 

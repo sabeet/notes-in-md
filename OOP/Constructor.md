@@ -1,7 +1,5 @@
 
 ---
-# Constructor
----
 A **constructor**  is a special method used in java to initialize objects upon creation. It can be used to set values for object attributes
 
 ---

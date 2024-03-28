@@ -1,4 +1,3 @@
-Static vs Public
 
 ---
 

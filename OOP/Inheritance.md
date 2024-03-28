@@ -1,3 +1,5 @@
+
+---
 **Inheritance** is one of the four pillars of OOP
 
 In Java, classes have the ability to inherit properties from other classes

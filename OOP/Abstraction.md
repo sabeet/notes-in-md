@@ -1,3 +1,5 @@
+
+---
 Abstraction is the process of hiding certain details away and showing essential information to the user. The way it differs from encapsulation is that:
 
 Abstract classes are restricted and cannot be instantiated. To access it, you have to inherit from an abstract class

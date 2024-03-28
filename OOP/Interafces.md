@@ -1,8 +1,5 @@
 
 ---
-
-# Interfaces
-
 Interfaces are used to `implement` abstract classes. As abstract classes have empty bodies for their methods, interfaces can be used to group them.
 
 To access the interface methods, you must use the implements method

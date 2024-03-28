@@ -1,7 +1,5 @@
 
 ---
-# Encapsulation
-
 Encapsulations is one of the four pillars of OOP.
 
 It allows for the hiding  of data by wrapping them up into units such as a class. It provides security to data members by making variables private and then creating public getter and setter methods to access these variables
